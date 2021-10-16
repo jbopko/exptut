@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4cbdcb4a-5465-4d28-a44e-0b5aa12c69e7/resourceGroups/bls-exp-tut-rg/providers/Microsoft.Web/sites/bls-exp-tut-1",
+    "appService.deploySubpath": "."
+}
